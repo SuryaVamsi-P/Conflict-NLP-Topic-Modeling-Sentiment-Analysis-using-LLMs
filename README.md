@@ -14,7 +14,7 @@ This capstone project uses **state-of-the-art NLP techniques** to perform :-
 The goal is to transform raw conflict data into **actionable intelligence** for policy makers, researchers, and humanitarian aid groups.
 
 
-## 📊 Key Highlights
+## Key Highlights
 
 - **26,000+ conflict records** from ACLED and Google Trends
 - Built **4 different topic modeling pipelines** (LDA, BERTopic, Top2Vec, LLaMA2)
@@ -39,14 +39,14 @@ The goal is to transform raw conflict data into **actionable intelligence** for 
 
 ```
 ├── notebooks/
-│   ├── protest-classification-lda.ipynb
-│   ├── protest-classification-bertopic.ipynb
-│   ├── top2vec_TopicModeling_protest_analysis.ipynb
-│   └── LLaMA2_TopicModeling_protest_analysis.ipynb
+│   ├── BERTopic_Protest_Classification.ipynb
+│   ├── LDA_Protest_Classification.ipynb
+│   ├── LLaMA2_TopicModeling_protest_analysis.ipynb
+│   └── Top2Vec_TopicModeling_Protest_Analysis.ipynb
 │
 ├── presentations/
-│   ├── WB_Final.pptx
-│   └── ACLED_Final.pptx
+│   ├── WorldBank_Final.pptx
+│   └── GWU_Capstone_Final.pptx
 │
 ├── data/            # Not uploaded due to size/privacy
 ├── README.md
@@ -71,8 +71,8 @@ The goal is to transform raw conflict data into **actionable intelligence** for 
 
 **Surya Vamsi Patiballa**  
 Graduate Student, MS in Data Science — George Washington University (GWU)  
-📧 svamsi2002@gmail.com  
-🔗 https://www.linkedin.com/in/surya-patiballa-b724851aa/
+svamsi2002@gmail.com  
+https://www.linkedin.com/in/surya-patiballa-b724851aa/
 
 
 > _"Transforming data into dialogue. Insights into action."_
