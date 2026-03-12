@@ -73,7 +73,7 @@ The goal is to transform raw conflict data into **actionable intelligence** for 
 Graduate Student, MS in Data Science — George Washington University (GWU)  
 - Email  :-  svamsi2002@gmail.com  
 - LinkedIn  :-  https://www.linkedin.com/in/surya-patiballa-b724851aa/
-- Resume  :-  https://drive.google.com/file/d/178IYcArC6YYVdJiIwRmJYodzKZ-JXe-D/view?usp=sharing
+
 
 
 > _"Transforming data into dialogue. Insights into action."_
